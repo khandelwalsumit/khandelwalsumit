@@ -1,6 +1,5 @@
 ### Hi visitor, I'm Sumit Khandelwal 👋
 
-- 🔭 I’m currently working as Senior consultant at EY India
 - 🌱 I’m currently learning NLP implementation at scale
 - 👯 I’m looking to collaborate on NLP based projects
 - 💬 Ask me about $ impacting Data science solutions
